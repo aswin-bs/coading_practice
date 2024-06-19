@@ -23,3 +23,6 @@ class Solution:
             if (i not in t) or (s.count(i) != t.count(i)):
                 return False
         return True
+    
+        #solution 2
+        #return sorted(s)==sorted(t)
