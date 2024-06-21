@@ -24,7 +24,7 @@ Output: [["x"]]
 
 
 
-lass Solution:
+class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
         ans = defaultdict(list)
