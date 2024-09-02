@@ -1,3 +1,5 @@
+#Single non duplicate elemet in logn
+
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
         
